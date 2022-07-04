@@ -43,7 +43,7 @@ def About_us():
 
 # Load Model 
 
-model = tf.keras.models.load_model('model/deepfake-detection-tensor.h5')
+model = tf.keras.models.load_model('deepfake-detection-tensor.h5')
 
 #***********************************************************************************************************
 
