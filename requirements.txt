@@ -1,5 +1,5 @@
-dlib==19.17.0
-Flask==2.1.2
+dlib==19.16.0
+Flask==2.0.0
 gunicorn==19.9.0
 idna==3.3
 importlib-metadata==4.12.0
