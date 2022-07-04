@@ -36,7 +36,7 @@ six==1.15.0
 tensorboard
 tensorboard-data-server
 tensorboard-plugin-wit
-tensorflow==2.6.0
+tensorflow==2.8.0
 tensorflow-estimator
 tensorflow-io-gcs-filesystem
 termcolor==1.1.0
